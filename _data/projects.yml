@@ -1,26 +1,58 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Quantum Simulator
+- project: Quantum Computing Simulator
+  role: Primary Researcher
+  duration: Sep, 2019 &mdash; May 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: For my final year project, I developed a quantum computing simulation library to help researchers at Glasgow University easily implement quantum algorithms in their own research.
+               <ul class="resume-item-list">
+          <li>The library was written in C++ and accelerated for CPU and GPU architectures with OpenAcc by NVidia</li>
+          <li>You can read my research <a href="/images/quantosim.pdf">here</a> and download the library <a href="/images/quantosim.zip">here</a>.</li>
+          </ul>
 
 # Physics Project
-- project: MICE Rutherford
+- project: MICE Rutherford Muon Collider
   role: Undergraduate Researcher
   duration: Oct, 2019 &mdash; May 2020
-  description: I worked alongside the Particle Physics department at Glasgow University to calibrate Cherenkov detectors for the MICE Muon Collider in Appleton,UK. 
+  description: Under the supervision of Dr. Paul Soler, I calibrated Cherenkov detectors in the MICE Muon Collider in Appleton,UK. 
             <ul class="resume-item-list">
           <li>I successfully calibrated the detectors using C++. Reliability was increased by 80%.</li>
           <li>You can read my research <a href="/images/MICE.pdf">here</a>.</li>
           </ul>
+
+# SendNews
+- project: SendNews
+  role: Founder
+  duration: Sep, 2020 &mdash; Present
+  description: SendNews is an SAAS electronic newspaper delivery start-up. <br>Using Python, I aim to deliver users a customised e-newspaper once a week about topics they are interested in from publicly verified, credible journalists.
+
+# Braklia
+- project: Braklia
+  role: Founder
+  duration: Nov, 2019 &mdash; Present
+  description: Braklia is an algorithmic trading bot that utilises arbitrage and sentiment strategies to make trades.<br>
+              Braklia is pre-alpha and already has a +24% gain since February 2020
+
+#Laughter Analysis
+- project: Laughter-Analysis
+  url: https://github.com/ldabas/Laughter-Analysis
+  role: Developer
+  duration: Feb, 2019 &mdash; Apr, 2019
+  description: I wrote a program in python that analyses call data between men and women to answer a host of questions using computer social intelligence.
+
+# Pitch Perfect
+- project: Pitch Perfect
+  url: https://github.com/ldabas/PitchPerfect
+  role: Developer
+  duration: Aug, 2018 &mdash; Oct, 2018
+  description: Using Swift, I created a mobile application to morph the voice of a user into Darth Vader, a squirrel, as well as a multitude of other characters.
+
+# iTunes Alarm
+- project: iTunes Alarm
+  url: https://github.com/ldabas/iTunesAlarm
+  role: Developer
+  duration: Nov, 2019 &mdash; Jan, 2020
+  description: I wanted to play my morning playlist as an alarm on my iphone. So I wrote a python bot to do it.
+

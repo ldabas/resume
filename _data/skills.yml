@@ -1,12 +1,32 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Leadership
+- skill: Leadership
+  description: <ul class="resume-item-list">
+                <li>I have over a year's worth of experience as a product manager.</li>
+                <li>I have held numerous leadership positions at university.</li>
+              </ul>
+              
+#Research
+- skill: Research
+  description: <ul class="resume-item-list">
+          <li> Over 2 years of quantitative research experience in various algorithmic trading roles.</li>
+          <li> 1 years of quantum computing research experience as an undergraduate research student.</li>
+          <li> 1 year of particle physics research experience as an undergraduate research student.</li>
+          </ul>
+# Programming
+- skill: Programming skills
+  description: <ul class="resume-item-list">
+          <li> Experienced in Python, C/C++, Java, Go, and MATLAB</li>
+          <li> Intermediate in Swift, R, Objective-C, Haskell, SQL, HTML5 and CSS3</li>
+          <li> Beginner in Javascript, Ruby</li>
+          </ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technologies
+- skill: Technologies
+  description: <ul class="resume-item-list">
+          <li> Experienced in Machine Learning, Qiskit, QSharp, Numpy, Pandas XCode, MacOs, Linux, Windows, Git, MySQL,</li>
+          <li> Intermediate in Node.js, React, RESTful APIs, Django, MongoDB, JUnit</li>
+          <li> Beginner in Express, Stripe, NoSQL</li>
+          </ul>
+
