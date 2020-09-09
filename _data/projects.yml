@@ -14,3 +14,13 @@
   duration: 2007 &mdash; Present
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Physics Project
+- project: MICE Rutherford
+  role: Undergraduate Researcher
+  duration: Oct, 2019 &mdash; May 2020
+  description: I worked alongside the Particle Physics department at Glasgow University to calibrate Cherenkov detectors for the MICE Muon Collider in Appleton,UK. 
+            <ul class="resume-item-list">
+          <li>I successfully calibrated the detectors using C++. Reliability was increased by 80%.</li>
+          <li>You can read my research <a href="/images/MICE.pdf">here</a>.</li>
+          </ul>

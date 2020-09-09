@@ -1,19 +1,64 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# SendNews
+- company: SendNews
+  position: Founder
+  duration: Sep, 2020 &mdash; Present
+  summary: SendNews is an SAAS electronic newspaper delivery company. We aim to deliver users a customised e-newspaper once a week about topics they are interested in from publicly approved, credible journalists.
+
+# ApexQubit
+- company: ApexQubit
+  position: Quantum Deveoper
+  duration: June, 2020 &mdash; Present
+  summary: I converted protein synthesis methods into quantum algorithms that can run on the xanadu platform by using quantum machine learning. The aim of these quantum algorithms was to minimise the money and time invested in pretein synthesis and drug discovery.
+  
+  #<ul class="resume-item-list">
+  #<li>A project you are proud of</li>
+  #<li>Another awesome project</li>
+  #<li>or a team or department you worked with</li>
+  #</ul>
+
+# Barclays
+- company: Barclays
+  position: Electronic Trading Intern
+  duration:  June, 2019 &mdash; Sep, 2019
+  summary: I wrote ultra low-latency code for CPUs and FPGAs using C++ and Java
+
+# Medipix
+- company: Medipix
+  position: Lead Software Engineer
+  duration: Aug, 2018 &mdash; Apr 2019
+  summary: I created several medical imaging plug-ins for medipix devices with Java and C++
+            <ul class="resume-item-list">
+          <li>I lead a team of 7 software engineers to create a masking plug-in which eliminates noise during alpha particle analysis.</li>
+          <li>I created a DAC scan plug-in that generates improved DAC voltage output during medical imaging.</li>
+          </ul>
+
+# Locus
+- company: Locus Investment Firm
+  position: Quantitative Analyst Intern
+  duration: May, 2018 &mdash; Aug 2019
+  summary: I developed sentiment strategies for algorithmic trading
+
+# Shanti Mohan
+
+- company: Shanti Mohan Hospital
+  position: Product Manager
+  duration: Sep, 2015 &mdash; Sep 2016
+  summary: I was responsible for creating an online patient registration system for the hospital via Django.
+            <ul class="resume-item-list">
+          <li>Moved the hospital’s medical application system from pen and paper to fully electronic.</li>
+          <li>Reduced time taken to register patient by ~12 minutes.</li>
+          </ul>
+
+# Tutor
+- company: Glasgow University
+  position: Tutor
+  duration: Sep, 2017 &mdash; Oct 2019
+  summary: I helped students with Physics and Computer Science courses.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+
+
+

@@ -1,15 +1,36 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+
+- organization: Glasgow University Entrepreneurship Society
+  role: President
+  year: 2019 &mdash; 2020
+  url: https://www.facebook.com/GUESociety
+  summary:   <ul class="resume-item-list">
+          <li>I lead a team of 4 other students to conduct Tech and Business Workshops for new Start-Ups.</li>
+          <li>I host public forums every 2 weeks for the 250 members of the society. These forums are conversations with entrepreneurs in the UK that manage businesses ranging from small companies to ‘Unicorn Companies’. We are partnered with Google Startup Grind.</li>
+          <li>Founded an accelerator to promote gender diversity in entrepreneurial ventures at Glasgow University.</li>
+          </ul>
+
+- organization: Glasgow University Trading And Investment Club
+  role: Director of Technology
+  year: 2019 &mdash; 2020
+  url: https://www.facebook.com/GUTICNOW/
+  summary: <ul class="resume-item-list">
+          <li>I lead the quantitative investing division of the club.</li>
+          <li>I conducted workshops to provide students an introductory knowledge of algorithmic trading.</li>
+          </ul>
+
+- organization: Handprints e-Nable
+  role: Prosthetic Limb Developer
+  year: 2016 &mdash; 2020
+  url: https://www.handprintsenable.com/prosthetics
+  summary: I volunteer to create 3D printed prosthetic limbs for children in order to assist them with performing day to day tasks.
+
+
+- organization: Little Big Africa
   role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  year: 2017
+  url: http://www.littlebigafrica.org
+  summary: I worked in the Kampala District in Uganda to assist with first aid and the development of clean sources of water. Our team created 2 clean water tanks and 14 low pollution cooking stoves.
 
-
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
