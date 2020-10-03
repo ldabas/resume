@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lakshith Dabas"
+resume_name:                    "Lakshit Dabas"
 resume_title:                   "Computer Science and Physics Enthusiast"
 
 # used for the contact button in _layouts/resume.html
