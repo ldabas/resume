@@ -4,7 +4,7 @@
 - company: ApexQubit
   position: Product Manager and Quantum Developer
   duration: June, 2020 &mdash; Present
-  summary: I led the conversion of protein synthesis methods into quantum algorithms that can run on the xanadu platform by using quantum machine learning. The aim of these quantum algorithms was to minimise the money and time invested in pretein synthesis and drug discovery.
+  summary: Led the conversion of protein synthesis methods into quantum algorithms that can run on the xanadu platform by using quantum machine learning. The aim of these quantum algorithms was to minimise the money and time invested in pretein synthesis and drug discovery.
   
   #<ul class="resume-item-list">
   #<li>A project you are proud of</li>
@@ -22,17 +22,17 @@
 - company: Medipix
   position: Lead Software Engineer
   duration: Aug, 2018 &mdash; Apr 2019
-  summary: I created several medical imaging plug-ins for medipix devices with Java and C++
+  summary: Created several medical imaging plug-ins for medipix devices with Java and C++
             <ul class="resume-item-list">
-          <li>I lead a team of 7 software engineers to create a masking plug-in which eliminates noise during alpha particle analysis.</li>
-          <li>I created a DAC scan plug-in that generates improved DAC voltage output during medical imaging.</li>
+          <li>Led a team of 7 software engineers to create a masking plug-in which eliminates noise during alpha particle analysis.</li>
+          <li>Created a DAC scan plug-in that generates improved DAC voltage output during medical imaging.</li>
           </ul>
 
 # Locus
 - company: Locus Investment Firm
   position: Quantitative Analyst Intern
   duration: May, 2018 &mdash; Aug 2019
-  summary: I developed sentiment strategies for algorithmic trading
+  summary: Developed sentiment strategies for algorithmic trading bu sing NLTK and SKLearn libraries in Python.
 
 # Shanti Mohan
 
@@ -49,7 +49,7 @@
 - company: Glasgow University
   position: Tutor
   duration: Sep, 2017 &mdash; Oct 2019
-  summary: I helped students with Physics and Computer Science courses.
+  summary: Helped students with Physics and Computer Science courses.
 
 
 
